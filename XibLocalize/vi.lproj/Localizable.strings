@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  XibLocalize
+
+  Created by phan.duong.ngoc on 9/20/18.
+  Copyright © 2018 Framgia. All rights reserved.
+*/
+
+"loggin.email.title" = "Email";
+"loggin.email.placeholder" = "nguyenvanA@gmail.com";
+"loggin.password.title" = "Mật khẩu";
+"loggin.password.placeholder" = "******";
+"loggin.button.title" = "Đăng nhập";
